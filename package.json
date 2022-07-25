@@ -1,6 +1,6 @@
 {
-  "name": "@rdnsan/frontend-starter",
-  "description": "A starter front-end project with ES6 and Webpack.",
+  "name": "@rdnsan/links",
+  "description": "Personal Links.",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,21 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rdnsan/frontend-starter.git"
+    "url": "https://github.com/rdnsan/links.git"
   },
-  "keywords": [
-    "webpack",
-    "webpack-starter",
-    "javascript",
-    "es6",
-    "front-end"
-  ],
   "author": "Ridwan Ikhsan <ridwan.jsx@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/rdnsan/frontend-starter#readme",
-  "bugs": {
-    "url": "https://github.com/rdnsan/frontend-starter/issues"
-  },
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/preset-env": "^7.16.11",
@@ -45,6 +34,7 @@
     "workbox-webpack-plugin": "^6.5.2"
   },
   "dependencies": {
-    "regenerator-runtime": "^0.13.9"
+    "regenerator-runtime": "^0.13.9",
+    "vanta": "^0.5.22"
   }
 }

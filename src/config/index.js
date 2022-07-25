@@ -1,9 +1,9 @@
 module.exports = {
-  TITLE: 'Frontend Starter',
-  DESCRIPTION: 'A starter front-end project with ES6 and Webpack.',
+  TITLE: 'Ridwan Ikhsan - Links',
+  DESCRIPTION: 'My personal links.',
   HOST: 'http://localhost:3000',
   Colors: {
-    primary: '#8ed6fb',
+    primary: '#202428',
     secondary: '#f6f9fc',
   },
 };

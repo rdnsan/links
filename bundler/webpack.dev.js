@@ -2,7 +2,9 @@ const path = require('path');
 const { merge } = require('webpack-merge');
 const common = require('./webpack.common');
 
-const infoColor = (message) => `\u001b[1m\u001b[34m${message}\u001b[39m\u001b[22m`;
+const infoColor = (message) =>
+  // eslint-disable-next-line implicit-arrow-linebreak
+  `\u001b[1m\u001b[34m${message}\u001b[39m\u001b[22m`;
 
 module.exports = merge(common, {
   mode: 'development',
