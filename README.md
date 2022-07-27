@@ -2,8 +2,8 @@
   <img src="public/icon.png" alt="Icon" height="100" />
 </div>
 
-<h4 align="center">Front End Starter</h4>
-<p align="center">A starter front-end project with ES6 and Webpack.</p>
+<h4 align="center">Links</h4>
+<p align="center">My Personal Links.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version 1.0.0"/>
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
